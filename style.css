@@ -122,6 +122,22 @@ h1 {
     width: 800px;
     margin-left: 20%;
 
+}
+
+.choose {
+    height: 250px;
+    width: 250px;
+    text-align: center;
+}
+
+.leader {
+    padding: 2%;
+    height: 300px;
+    width: 400px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
 
 }
 
