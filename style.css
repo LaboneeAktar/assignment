@@ -63,15 +63,16 @@ h1 {
     color: brown;
 }
 
-.other-tk {
-    color: darkgrey;
+input {
     text-align: center;
-    border-bottom: 1px solid #5c5b5b;
+    font-size: 20px;
     margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 120px;
+    padding: 1%;
+    border: none;
+    border-bottom: 2px solid black;
+    width: 60%;
 }
 
-.donate-now {
-    margin-bottom: -120px;
+#donate-now {
+    margin-left: 41%;
 }
