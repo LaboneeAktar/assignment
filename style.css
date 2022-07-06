@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto Slab', serif;
+    padding-bottom: 5%;
 }
 
 h1 {
@@ -10,6 +11,7 @@ h1 {
     text-align: center;
     color: white;
     padding-top: 13%;
+    font-size: 18px;
 }
 
 .bgimage {
@@ -23,9 +25,12 @@ h1 {
 .donate {
     text-decoration: none;
     background-image: linear-gradient(brown, crimson);
-    padding: 10px 30px;
+    padding: 15px 40px;
     color: white;
     border-radius: 10px;
+    font-weight: 500;
+    font-size: 20px;
+
 }
 
 .donate-today {
@@ -56,4 +61,17 @@ h1 {
     border: 3px solid #FF5959;
     box-sizing: border-box;
     color: brown;
+}
+
+.other-tk {
+    color: darkgrey;
+    text-align: center;
+    border-bottom: 1px solid #5c5b5b;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 120px;
+}
+
+.donate-now {
+    margin-bottom: -120px;
 }
