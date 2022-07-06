@@ -5,3 +5,25 @@ body {
 h1 {
     font-size: 40px;
 }
+
+.help {
+    text-align: center;
+    color: white;
+    padding-top: 13%;
+}
+
+.bgimage {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 630px;
+
+}
+
+.donate {
+    text-decoration: none;
+    background-image: linear-gradient(brown, crimson);
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
