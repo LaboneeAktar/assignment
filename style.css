@@ -76,3 +76,43 @@ input {
 #donate-now {
     margin-left: 41%;
 }
+
+/*.half-width {
+    width: 50%;
+    padding: 5%;
+}*/
+.flex-container1 {
+    display: flex;
+    padding: 2%;
+    margin-left: 5%;
+
+}
+
+.our-plan {
+    padding: 2%;
+    height: 300px;
+    width: 400px;
+    background-color: rgb(228, 231, 231);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+
+}
+
+#food {
+    background: rgba(13, 139, 153, 0.192);
+    border-radius: 8px;
+    text-align: justify;
+}
+
+#shelter {
+    background: rgba(255, 89, 89, 0.329);
+    border-radius: 8px;
+    text-align: justify;
+}
+
+#education {
+    background: #1E1E1E;
+    border-radius: 8px;
+    text-align: justify;
+}
